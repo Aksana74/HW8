@@ -1,0 +1,15 @@
+D:\HW8\CODE54\bin\Debug\net6.0\CODE54.exe
+D:\HW8\CODE54\bin\Debug\net6.0\CODE54.deps.json
+D:\HW8\CODE54\bin\Debug\net6.0\CODE54.runtimeconfig.json
+D:\HW8\CODE54\bin\Debug\net6.0\CODE54.dll
+D:\HW8\CODE54\bin\Debug\net6.0\CODE54.pdb
+D:\HW8\CODE54\obj\Debug\net6.0\CODE54.csproj.AssemblyReference.cache
+D:\HW8\CODE54\obj\Debug\net6.0\CODE54.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW8\CODE54\obj\Debug\net6.0\CODE54.AssemblyInfoInputs.cache
+D:\HW8\CODE54\obj\Debug\net6.0\CODE54.AssemblyInfo.cs
+D:\HW8\CODE54\obj\Debug\net6.0\CODE54.csproj.CoreCompileInputs.cache
+D:\HW8\CODE54\obj\Debug\net6.0\CODE54.dll
+D:\HW8\CODE54\obj\Debug\net6.0\refint\CODE54.dll
+D:\HW8\CODE54\obj\Debug\net6.0\CODE54.pdb
+D:\HW8\CODE54\obj\Debug\net6.0\CODE54.genruntimeconfig.cache
+D:\HW8\CODE54\obj\Debug\net6.0\ref\CODE54.dll
