@@ -1,0 +1,15 @@
+D:\HW8\CODE 56\bin\Debug\net6.0\CODE 56.exe
+D:\HW8\CODE 56\bin\Debug\net6.0\CODE 56.deps.json
+D:\HW8\CODE 56\bin\Debug\net6.0\CODE 56.runtimeconfig.json
+D:\HW8\CODE 56\bin\Debug\net6.0\CODE 56.dll
+D:\HW8\CODE 56\bin\Debug\net6.0\CODE 56.pdb
+D:\HW8\CODE 56\obj\Debug\net6.0\CODE 56.csproj.AssemblyReference.cache
+D:\HW8\CODE 56\obj\Debug\net6.0\CODE 56.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW8\CODE 56\obj\Debug\net6.0\CODE 56.AssemblyInfoInputs.cache
+D:\HW8\CODE 56\obj\Debug\net6.0\CODE 56.AssemblyInfo.cs
+D:\HW8\CODE 56\obj\Debug\net6.0\CODE 56.csproj.CoreCompileInputs.cache
+D:\HW8\CODE 56\obj\Debug\net6.0\CODE 56.dll
+D:\HW8\CODE 56\obj\Debug\net6.0\refint\CODE 56.dll
+D:\HW8\CODE 56\obj\Debug\net6.0\CODE 56.pdb
+D:\HW8\CODE 56\obj\Debug\net6.0\CODE 56.genruntimeconfig.cache
+D:\HW8\CODE 56\obj\Debug\net6.0\ref\CODE 56.dll
