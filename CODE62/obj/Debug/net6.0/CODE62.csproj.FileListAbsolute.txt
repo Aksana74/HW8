@@ -1,0 +1,15 @@
+D:\HW8\CODE62\bin\Debug\net6.0\CODE62.exe
+D:\HW8\CODE62\bin\Debug\net6.0\CODE62.deps.json
+D:\HW8\CODE62\bin\Debug\net6.0\CODE62.runtimeconfig.json
+D:\HW8\CODE62\bin\Debug\net6.0\CODE62.dll
+D:\HW8\CODE62\bin\Debug\net6.0\CODE62.pdb
+D:\HW8\CODE62\obj\Debug\net6.0\CODE62.csproj.AssemblyReference.cache
+D:\HW8\CODE62\obj\Debug\net6.0\CODE62.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW8\CODE62\obj\Debug\net6.0\CODE62.AssemblyInfoInputs.cache
+D:\HW8\CODE62\obj\Debug\net6.0\CODE62.AssemblyInfo.cs
+D:\HW8\CODE62\obj\Debug\net6.0\CODE62.csproj.CoreCompileInputs.cache
+D:\HW8\CODE62\obj\Debug\net6.0\CODE62.dll
+D:\HW8\CODE62\obj\Debug\net6.0\refint\CODE62.dll
+D:\HW8\CODE62\obj\Debug\net6.0\CODE62.pdb
+D:\HW8\CODE62\obj\Debug\net6.0\CODE62.genruntimeconfig.cache
+D:\HW8\CODE62\obj\Debug\net6.0\ref\CODE62.dll
