@@ -1,0 +1,15 @@
+D:\HW8\CODE58\bin\Debug\net6.0\CODE58.exe
+D:\HW8\CODE58\bin\Debug\net6.0\CODE58.deps.json
+D:\HW8\CODE58\bin\Debug\net6.0\CODE58.runtimeconfig.json
+D:\HW8\CODE58\bin\Debug\net6.0\CODE58.dll
+D:\HW8\CODE58\bin\Debug\net6.0\CODE58.pdb
+D:\HW8\CODE58\obj\Debug\net6.0\CODE58.csproj.AssemblyReference.cache
+D:\HW8\CODE58\obj\Debug\net6.0\CODE58.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW8\CODE58\obj\Debug\net6.0\CODE58.AssemblyInfoInputs.cache
+D:\HW8\CODE58\obj\Debug\net6.0\CODE58.AssemblyInfo.cs
+D:\HW8\CODE58\obj\Debug\net6.0\CODE58.csproj.CoreCompileInputs.cache
+D:\HW8\CODE58\obj\Debug\net6.0\CODE58.dll
+D:\HW8\CODE58\obj\Debug\net6.0\refint\CODE58.dll
+D:\HW8\CODE58\obj\Debug\net6.0\CODE58.pdb
+D:\HW8\CODE58\obj\Debug\net6.0\CODE58.genruntimeconfig.cache
+D:\HW8\CODE58\obj\Debug\net6.0\ref\CODE58.dll
