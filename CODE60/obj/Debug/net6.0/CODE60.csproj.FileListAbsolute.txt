@@ -1,0 +1,15 @@
+D:\HW8\CODE60\bin\Debug\net6.0\CODE60.exe
+D:\HW8\CODE60\bin\Debug\net6.0\CODE60.deps.json
+D:\HW8\CODE60\bin\Debug\net6.0\CODE60.runtimeconfig.json
+D:\HW8\CODE60\bin\Debug\net6.0\CODE60.dll
+D:\HW8\CODE60\bin\Debug\net6.0\CODE60.pdb
+D:\HW8\CODE60\obj\Debug\net6.0\CODE60.csproj.AssemblyReference.cache
+D:\HW8\CODE60\obj\Debug\net6.0\CODE60.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW8\CODE60\obj\Debug\net6.0\CODE60.AssemblyInfoInputs.cache
+D:\HW8\CODE60\obj\Debug\net6.0\CODE60.AssemblyInfo.cs
+D:\HW8\CODE60\obj\Debug\net6.0\CODE60.csproj.CoreCompileInputs.cache
+D:\HW8\CODE60\obj\Debug\net6.0\CODE60.dll
+D:\HW8\CODE60\obj\Debug\net6.0\refint\CODE60.dll
+D:\HW8\CODE60\obj\Debug\net6.0\CODE60.pdb
+D:\HW8\CODE60\obj\Debug\net6.0\CODE60.genruntimeconfig.cache
+D:\HW8\CODE60\obj\Debug\net6.0\ref\CODE60.dll
